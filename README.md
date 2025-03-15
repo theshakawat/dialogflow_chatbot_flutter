@@ -90,7 +90,7 @@ Pull requests are welcome! For major changes, open an issue first.
 **Acknowledgments**:
 - Dialogflow by Google
 - Flutter Community
-```
+
 ### Screenshot
 ![Chat Interface](screenshots/chatpage.png)
 
