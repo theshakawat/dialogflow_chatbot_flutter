@@ -25,8 +25,8 @@ This project demonstrates how to integrate Dialogflow (a natural language unders
 ## Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/theshakawat/flutter-dialogflow-chatbot.git
-   cd flutter-dialogflow-chatbot
+   git clone https://github.com/theshakawat/dialogflow_chatbot_flutter.git
+   cd dialogflow_chatbot_flutter
    ```
 
 2. **Install dependencies**
@@ -91,10 +91,7 @@ Pull requests are welcome! For major changes, open an issue first.
 - Dialogflow by Google
 - Flutter Community
 ```
-
----
-
-### Screenshot (Optional)
+### Screenshot
 ![Chat Interface](screenshots/chatpage.png)
 
 Replace placeholders (e.g., `your-service-account-key.json`, `your-dialogflow-project-id`) with your actual values. Let me know if you need further adjustments! 🤖✨
